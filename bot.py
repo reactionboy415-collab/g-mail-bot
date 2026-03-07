@@ -10,14 +10,14 @@ from telebot import types
 # --- CONFIGURATION ---
 TOKEN = "8330596269:AAFD-NNRBfLZ8Vl_1FZ-lHasXtVKUiFdxp8" # Updated Token
 bot = telebot.TeleBot(TOKEN)
-API_BASE_URL = "https://gmail-bottttttzbsbzbzjsjsj.vercel.app/" # Your Vercel API
+API_BASE_URL = "https://gmail-bot-plum.vercel.app/" # Your Vercel API
 
 # Admin & Channel Config
 ADMIN_IDS = [7840042951]
 REQUIRED_CHANNELS = ["@CatalystMystery"] # Updated Channel
 DEV_USERNAME = "@dev2dex" # Developer handle
 
-# Stats tracking in RAM
+# Stats tracking in RA
 system_data = {
     "users": {},      
     "total_gen": 0,   
