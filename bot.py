@@ -10,7 +10,7 @@ from telebot import types
 # --- CONFIGURATION ---
 TOKEN = "8330596269:AAFD-NNRBfLZ8Vl_1FZ-lHasXtVKUiFdxp8" # Updated Token
 bot = telebot.TeleBot(TOKEN)
-API_BASE_URL = "https://gmail-bot-plum.vercel.app/" # Your Vercel API
+API_BASE_URL = "https://paid-gmailnator-api.vercel.app" # Your Vercel API
 
 # Admin & Channel Config
 ADMIN_IDS = [7840042951]
