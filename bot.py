@@ -10,7 +10,7 @@ from telebot import types
 from urllib.parse import unquote
 
 # --- CONFIGURATION ---
-TOKEN = "8330596269:AAFD-NNRBfLZ8Vl_1FZ-lHasXtVKUiFdxp8"
+TOKEN = "8330596269:AAHxEL5onJclg02FetV_AT9qXi3wy1mHSqs"
 bot = telebot.TeleBot(TOKEN)
 ADMIN_IDS = [7840042951]
 REQUIRED_CHANNELS = ["@CatalystMystery"]
